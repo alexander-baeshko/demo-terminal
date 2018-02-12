@@ -1,0 +1,2 @@
+# demo-terminal
+Flask application
